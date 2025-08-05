@@ -1,0 +1,22 @@
+{
+  "work_dir": "/home/itrib30156/llm_vision/LLaMA-Factory/LLaMA-Factory",
+  "parent_dir": "/home/itrib30156/llm_vision/LLaMA-Factory",
+  "data_dir": "/home/itrib30156/llm_vision/LLaMA-Factory/data/c2d38995-ab95-4ed2-973a-e1ea30285888",
+  "base_model": "/home/itrib30156/llm_vision/phi4",
+  "reward_model": "/home/itrib30156/llm_vision/LLaMA-Factory/rm_model/checkpoint-600",
+  "ref_model": "/home/itrib30156/llm_vision/phi4",
+  "per_device_train_batch_size": 2,
+  "gradient_accumulation_steps": 2,
+  "learning_rate": 5e-06,
+  "num_train_epochs": 1,
+  "lora_rank": 64,
+  "lora_alpha": 32,
+  "lora_dropout": 0.1,
+  "max_length": 512,
+  "max_new_tokens": 128,
+  "temperature": 0.7,
+  "seed": 42,
+  "gpu_devices": "0,1",
+  "nproc_per_node": 2,
+  "dataset_name": "ppo_data"
+}

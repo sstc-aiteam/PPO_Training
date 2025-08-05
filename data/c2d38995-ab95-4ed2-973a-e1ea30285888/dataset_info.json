@@ -1,0 +1,41 @@
+{
+  "ppo_data": {
+    "file_name": "ppo_data_train.json",
+    "file_path": "/home/itrib30156/llm_vision/LLaMA-Factory/data/c2d38995-ab95-4ed2-973a-e1ea30285888/ppo_data_train.json",
+    "type": "multimodal_ppo",
+    "columns": {
+      "instruction": "instruction",
+      "prompt": "query",
+      "response": "response",
+      "labels": "labels",
+      "images": "images"
+    }
+  },
+  "ppo_data_eval": {
+    "file_name": "ppo_data_eval.json",
+    "file_path": "/home/itrib30156/llm_vision/LLaMA-Factory/data/c2d38995-ab95-4ed2-973a-e1ea30285888/ppo_data_eval.json",
+    "type": "multimodal_ppo",
+    "columns": {
+      "instruction": "instruction",
+      "prompt": "query",
+      "response": "response",
+      "labels": "labels",
+      "images": "images"
+    }
+  },
+  "_metadata": {
+    "dataset_id": "c2d38995-ab95-4ed2-973a-e1ea30285888",
+    "dataset_name": "string_20250805_204609",
+    "upload_time": "2025-08-05T20:46:09.309352",
+    "file_info": {
+      "original_filename": "training_data.zip",
+      "file_type": "ZIP",
+      "csv_rows": 48,
+      "training_samples": 38,
+      "evaluation_samples": 10,
+      "images_found": 48,
+      "images_missing": 0,
+      "total_images": 23
+    }
+  }
+}

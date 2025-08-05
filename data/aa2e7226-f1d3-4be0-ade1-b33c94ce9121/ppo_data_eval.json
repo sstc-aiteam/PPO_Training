@@ -1,0 +1,92 @@
+[
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有多少雙鞋?",
+    "images": [
+      "/home/itrib30156/llm_vision/LLaMA-Factory/data/aa2e7226-f1d3-4be0-ade1-b33c94ce9121/images/shose.jpeg"
+    ],
+    "response": "36雙",
+    "labels": "36雙"
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有多少種類的滷味食材?",
+    "images": [
+      "/home/itrib30156/llm_vision/LLaMA-Factory/data/aa2e7226-f1d3-4be0-ade1-b33c94ce9121/images/49321945131_2c115a871f_o.jpg"
+    ],
+    "response": "11種",
+    "labels": "11種"
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有多少條木瓜?",
+    "images": [
+      "/home/itrib30156/llm_vision/LLaMA-Factory/data/aa2e7226-f1d3-4be0-ade1-b33c94ce9121/images/2018-05-14.jpg"
+    ],
+    "response": "10條",
+    "labels": "10條"
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有幾塊大豆干?幾塊小豆干?",
+    "images": [
+      "/home/itrib30156/llm_vision/LLaMA-Factory/data/aa2e7226-f1d3-4be0-ade1-b33c94ce9121/images/49321945131_2c115a871f_o.jpg"
+    ],
+    "response": "6塊、9塊",
+    "labels": "6塊、9塊"
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>正面商品架上有多少盤已經切好的水果?",
+    "images": [
+      "/home/itrib30156/llm_vision/LLaMA-Factory/data/aa2e7226-f1d3-4be0-ade1-b33c94ce9121/images/shose.jpeg"
+    ],
+    "response": "10盤",
+    "labels": "10盤"
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中這些紅酒瓶方志再甚麼地方?",
+    "images": [
+      "/home/itrib30156/llm_vision/LLaMA-Factory/data/aa2e7226-f1d3-4be0-ade1-b33c94ce9121/images/VZ_VZ110SDUG_6.jpg"
+    ],
+    "response": "酒櫃",
+    "labels": "酒櫃"
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖片中有多少條麵包",
+    "images": [
+      "/home/itrib30156/llm_vision/LLaMA-Factory/data/aa2e7226-f1d3-4be0-ade1-b33c94ce9121/images/241101-30329-21-UYBvs.jpg"
+    ],
+    "response": "14條",
+    "labels": "14條"
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這些商品被陳列在哪種貨架？",
+    "images": [
+      "/home/itrib30156/llm_vision/LLaMA-Factory/data/aa2e7226-f1d3-4be0-ade1-b33c94ce9121/images/izakaya_201704_N_01.jpg"
+    ],
+    "response": "冷凍櫃",
+    "labels": "冷凍櫃"
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>它被種植在什麼樣的容器裡？",
+    "images": [
+      "/home/itrib30156/llm_vision/LLaMA-Factory/data/aa2e7226-f1d3-4be0-ade1-b33c94ce9121/images/IMG_5010.jpg"
+    ],
+    "response": "它們被種植在灰色混凝土花盆中。",
+    "labels": "它們被種植在灰色混凝土花盆中。"
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>正面商品架上已經切好的水果有幾盤是西瓜?",
+    "images": [
+      "/home/itrib30156/llm_vision/LLaMA-Factory/data/aa2e7226-f1d3-4be0-ade1-b33c94ce9121/images/2018-05-14.jpg"
+    ],
+    "response": "2盤",
+    "labels": "2盤"
+  }
+]
