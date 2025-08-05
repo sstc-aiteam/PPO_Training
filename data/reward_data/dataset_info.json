@@ -1,0 +1,28 @@
+{
+    "multimodal_rm_data": {
+      "file_name": "rm_train.json",
+      "file_path": "/home/itrib30156/llm_vision/LLaMA-Factory/data/reward_data/rm_train.json",
+      "type": "multimodal_rm",
+      "ranking":true,
+      "columns": {
+        "instruction":"instruction",
+        "prompt": "query",
+        "chosen": "chosen",
+        "rejected": "rejected",
+        "images": "images"
+      }
+    },
+    "multimodal_rm_eval": {
+      "file_name": "rm_eval.json",
+      "file_path": "/home/itrib30156/llm_vision/LLaMA-Factory/data/reward_data/rm_eval.json",
+      "type": "multimodal_rm_eval",
+      "ranking":true,
+      "columns": {
+        "instruction":"instruction",
+        "prompt": "query",
+        "chosen": "chosen",
+        "rejected": "rejected",
+        "images": "images"
+      }
+    }
+  }

@@ -1,0 +1,26 @@
+{
+  "multimodal_ppo_data": {
+    "file_name": "ppo_data_train.json",
+    "file_path": "/home/itrib30156/llm_vision/LLaMA-Factory/data/ppo_data/ppo_data_train.json",
+    "type": "multimodal_ppo",
+    "columns": {
+      "instruction": "instruction",
+      "prompt": "query",
+      "response": "response",
+      "labels": "labels",
+      "images": "images"
+    }
+  },
+  "multimodal_ppo_eval": {
+    "file_name": "ppo_data_eval.json",
+    "file_path": "/home/itrib30156/llm_vision/LLaMA-Factory/data/ppo_data/ppo_data_eval.json",
+    "type": "multimodal_ppo",
+    "columns": {
+      "instruction": "instruction",
+      "prompt": "query",
+      "response": "response",
+      "labels": "labels",
+      "images": "images"
+    }
+  }
+}

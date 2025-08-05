@@ -1,0 +1,434 @@
+[
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這些釋迦被包裝在什麼保護材質中？",
+    "chosen": "這些釋迦被包裹在黃色網狀泡沫保護套裡，以保護果實不受碰撞損傷。",
+    "rejected": "白色泡沫保護套",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/fruit.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這些水果的品種是什麼？",
+    "chosen": "這些水果是Custard apple（釋迦）。",
+    "rejected": "香蕉",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/fruit.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>請問這裡有多少釋迦",
+    "chosen": "從圖片來看，總共有五顆釋迦。",
+    "rejected": "不太確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/fruit.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這盆植物大約有幾片葉子",
+    "chosen": "從圖片來看，總共有6片大片的葉子。",
+    "rejected": "共有8個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/IMG_5010.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>它被種植在什麼樣的容器裡？",
+    "chosen": "它們被種植在灰色混凝土花盆中。",
+    "rejected": "陶瓷花盆",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/IMG_5010.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這張圖片裡是什麼植物？",
+    "chosen": "天堂鳥（Strelitzia)，又名： 鶴望蘭、極樂鳥花 – 多年生草本植物",
+    "rejected": "不確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/IMG_5010.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這張圖片裡總共有幾杯手搖飲？",
+    "chosen": "從圖片來看，7杯。",
+    "rejected": "共有9個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/IMG_5172-e1622379858920.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>飲料旁邊擺放了哪些水果？",
+    "chosen": "葡萄和奇異果",
+    "rejected": "不確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/IMG_5172-e1622379858920.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>飲料旁邊百放了幾盆盆栽？",
+    "chosen": "從圖片來看，總共兩盆。",
+    "rejected": "不太確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/IMG_5172-e1622379858920.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這張圖片中苦瓜有多少個?",
+    "chosen": "從圖片來看，7個。",
+    "rejected": "共有9個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/G08_DSC09816-1024x653.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這張圖片中有幾條的絲瓜?",
+    "chosen": "從圖片來看，2條。",
+    "rejected": "共有4個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/G08_DSC09816-1024x653.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這張圖片張有幾個大頭菜？",
+    "chosen": "從圖片來看，2個。",
+    "rejected": "共有1個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/G08_DSC09816-1024x653.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖片中有多少條麵包",
+    "chosen": "從圖片來看，14條。",
+    "rejected": "共有15個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/241101-30329-21-UYBvs.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖片中有多少種不同造型的麵包",
+    "chosen": "從圖片來看，10種。",
+    "rejected": "共有11個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/241101-30329-21-UYBvs.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這些麵包是放在哪裡",
+    "chosen": "這些麵包看似都放在金屬烘焙冷卻網架上",
+    "rejected": "不確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/241101-30329-21-UYBvs.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這張圖片中一共有幾盒雞蛋？",
+    "chosen": "從圖片來看，4盒。",
+    "rejected": "共有5個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/30b9cbbdbb16ff263fe64bddb7c95491.jpeg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這張圖片中有幾朵的花椰菜",
+    "chosen": "從圖片來看，15朵。",
+    "rejected": "共有14個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/G05_2024_121436-1024x683.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這些花椰菜被擺放在哪種容器裡？",
+    "chosen": "它們被種植在保麗龍箱中中。",
+    "rejected": "玻璃容器",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/G05_2024_121436-1024x683.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖片中有幾種不同的冷凍食品",
+    "chosen": "從圖片來看，5種。",
+    "rejected": "共有6個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/izakaya_201704_N_01.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這些商品被陳列在哪種貨架？",
+    "chosen": "冷凍櫃",
+    "rejected": "不確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/izakaya_201704_N_01.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中標示的促銷價格是多少？",
+    "chosen": "從圖片來看，158円與300円，原價是171円與324円。",
+    "rejected": "共有159個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/izakaya_201704_N_01.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這張圖有多少種不同口味的泡麵",
+    "chosen": "從圖片來看，7種。",
+    "rejected": "共有6個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/GetImg.jpeg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>這裡有多少品牌的泡麵",
+    "chosen": "從圖片來看，兩種，來一客與阿Q統一麵。",
+    "rejected": "不太確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/GetImg.jpeg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>哪一種泡麵看起來比較大碗",
+    "chosen": "從外包裝來看阿Q統一麵看起來比較大碗",
+    "rejected": "不確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/GetImg.jpeg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>正面商品架上有多少盤已經切好的水果?",
+    "chosen": "從圖片來看，10盤。",
+    "rejected": "共有8個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/shose.jpeg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>正面商品架上已經切好的水果有幾盤是西瓜?",
+    "chosen": "從圖片來看，2盤。",
+    "rejected": "共有3個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/2018-05-14.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有多少條木瓜?",
+    "chosen": "從圖片來看，10條。",
+    "rejected": "共有12個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/2018-05-14.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有多少雙鞋?",
+    "chosen": "從圖片來看，36雙。",
+    "rejected": "共有34個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/shose.jpeg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中共有多少瓶裝咖啡豆的瓶子?",
+    "chosen": "從圖片來看，18瓶。",
+    "rejected": "共有19個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/R.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有多少櫃子放了咖啡豆?",
+    "chosen": "從圖片來看，3個櫃子。",
+    "rejected": "共有1個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/R.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中共有幾塊蛋糕?",
+    "chosen": "從圖片來看，15塊。",
+    "rejected": "共有13個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/tu-bao-quan-banh-kem-1m8-kinh-cong.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中共有幾塊被切分的小蛋糕?",
+    "chosen": "從圖片來看，6塊。",
+    "rejected": "共有8個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/tu-bao-quan-banh-kem-1m8-kinh-cong.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中共有幾瓶香水?",
+    "chosen": "從圖片來看，13瓶。",
+    "rejected": "共有12個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/tw-11134201-23030-sola1bbtf5nvd3.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中共有多少瓶香水的顏色是黃色的?",
+    "chosen": "從圖片來看，2瓶。",
+    "rejected": "共有3個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/tw-11134201-23030-sola1bbtf5nvd3.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中香水被擺放在甚麼容器中?",
+    "chosen": "它們被種植在玻璃展示櫃中。",
+    "rejected": "木製花盆",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/tw-11134201-23030-sola1bbtf5nvd3.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中的瓶子裝是甚麼?",
+    "chosen": "紅酒瓶",
+    "rejected": "不確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/VZ_VZ110SDUG_6.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有多少個紅酒瓶?",
+    "chosen": "從圖片來看，22瓶。",
+    "rejected": "共有23個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/VZ_VZ110SDUG_6.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中這些紅酒瓶方志再甚麼地方?",
+    "chosen": "酒櫃",
+    "rejected": "不確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/VZ_VZ110SDUG_6.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中的冷凍肉品有幾盒?",
+    "chosen": "從圖片來看，20盒。",
+    "rejected": "共有21個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/1636884395978-1024x768.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中的商品被陳列在哪種貨架?",
+    "chosen": "冷凍櫃",
+    "rejected": "不確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/1636884395978-1024x768.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有多少種類的滷味食材?",
+    "chosen": "從圖片來看，11種。",
+    "rejected": "共有13個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/49321945131_2c115a871f_o.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有多少塊雞翅?",
+    "chosen": "從圖片來看，4塊。",
+    "rejected": "共有2個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/49321945131_2c115a871f_o.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中非肉類食材有幾種?",
+    "chosen": "從圖片來看，3種。",
+    "rejected": "共有5個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/49321945131_2c115a871f_o.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有幾塊大豆干?幾塊小豆干?",
+    "chosen": "從圖片來看，大豆干有6塊，小豆干有9塊。",
+    "rejected": "共有7個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/49321945131_2c115a871f_o.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中海帶共有幾卷?",
+    "chosen": "從圖片來看，6卷。",
+    "rejected": "共有7個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/49321945131_2c115a871f_o.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中食材被甚麼容器裝著?",
+    "chosen": "它們被種植在銀色鐵盤中。",
+    "rejected": "木製花盆",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/49321945131_2c115a871f_o.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中有多少種口味的義美小泡芙?",
+    "chosen": "從圖片來看，2種。",
+    "rejected": "共有4個",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/2895640.jpg"
+    ]
+  },
+  {
+    "instruction": "You are a knowledgeable assistant with expertise in quantitative analysis and visual understanding. Please carefully analyze images and respond to all types of questions, including counting objects, describing scenes, explaining content, or answering general knowledge queries. Answer in Traditional Chinese.",
+    "query": "<image>圖中的泡芙有哪些口味?",
+    "chosen": "牛奶與草莓",
+    "rejected": "不確定",
+    "images": [
+      "/home/itrib30156/llm_vision/self_grpo/images/2895640.jpg"
+    ]
+  }
+]
